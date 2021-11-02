@@ -6,7 +6,7 @@ Prior to my PhD, I received a Diploma in Electrical and Computer Engineering fro
 
 #### Research
 
-- LoCS ([Roto-translated Local Coordinate Frames For Interacting Dynamical Systems](https://arxiv.org/abs/2110.14961))
+- [LoCS](https://github.com/mkofinas/locs) ([Roto-translated Local Coordinate Frames For Interacting Dynamical Systems](https://arxiv.org/abs/2110.14961) - NeurIPS 2021)
 
 <!--
 **mkofinas/mkofinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
