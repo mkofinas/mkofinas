@@ -9,10 +9,16 @@ Prior to my PhD, I received a Diploma in Electrical and Computer Engineering fro
 <pre>
 <b>Roto-translated Local Coordinate Frames for Interacting Dynamical Systems</b>
 Miltiadis Kofinas, Naveen Shankar Nagaraja, Efstratios Gavves
-NeurIPS 2021
-<a href="https://arxiv.org/abs/2110.14961">https://arxiv.org/abs/2110.14961</href>
-<a href="https://github.com/mkofinas/locs">https://github.com/mkofinas/locs</href>
+<em>NeurIPS 2021</em>
+Preprint: <a href="https://arxiv.org/abs/2110.14961">https://arxiv.org/abs/2110.14961</a>
+Source code: <a href="https://github.com/mkofinas/locs">https://github.com/mkofinas/locs</a>
 </pre>
+
+<!--
+We propose roto-translated local coordinate frames for all nodes-objects in the geometric graphs of interacting dynamical systems.
+Each local coordinate frame is centered at the target object and rotated to match its orientation.
+Experiments on a number of 2D/3D settings, including pedestrians in traffic scenes and interacting charged particles, demonstrate the effectiveness of our method.
+-->
 
 <!--
 **mkofinas/mkofinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
