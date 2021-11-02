@@ -6,7 +6,13 @@ Prior to my PhD, I received a Diploma in Electrical and Computer Engineering fro
 
 #### Research
 
-- [LoCS](https://github.com/mkofinas/locs) ([Roto-translated Local Coordinate Frames For Interacting Dynamical Systems](https://arxiv.org/abs/2110.14961) - NeurIPS 2021)
+<pre>
+<b>Roto-translated Local Coordinate Frames for Interacting Dynamical Systems</b>
+Miltiadis Kofinas, Naveen Shankar Nagaraja, Efstratios Gavves
+NeurIPS 2021
+<a href="https://arxiv.org/abs/2110.14961">https://arxiv.org/abs/2110.14961</href>
+<a href="https://github.com/mkofinas/locs">https://github.com/mkofinas/locs</href>
+</pre>
 
 <!--
 **mkofinas/mkofinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
