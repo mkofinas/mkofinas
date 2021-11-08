@@ -2,7 +2,7 @@
 
 My name is Miltiadis (Miltos) Kofinas, and I am a PhD student in the [Video & Image Sense Lab](https://ivi.fnwi.uva.nl/vislab/) at the University of Amsterdam, supervised by [Efstratios Gavves](https://egavves.com/). My research focuses on future spatio-temporal forecasting, with applications on forecasting for autonomous vehicles. My research interests include graph neural networks, temporal dynamics, geometric deep learning and equivariant representations.
 
-Prior to my PhD, I received a Diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki. For my Diploma thesis, I researched the topic of Scene Graph Generation using Graph Neural Networks. During my studies, I was a computer vision & machine learning engineer at [P.A.N.D.O.R.A. Robotics](https://pandora.ee.auth.gr/pandora-robotics/).
+Prior to my PhD, I received a Diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki. For my Diploma thesis, I researched the topic of Scene Graph Generation using Graph Neural Networks, supervised by [Anastasios Delopoulos](https://mug.ee.auth.gr/people/anastasios-delopoulos/) and [Christos Diou](https://mug.ee.auth.gr/people/christos-diou/). During my studies, I was a computer vision & machine learning engineer at [P.A.N.D.O.R.A. Robotics](https://pandora.ee.auth.gr/pandora-robotics/).
 
 #### Research
 
