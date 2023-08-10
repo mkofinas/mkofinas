@@ -7,10 +7,18 @@ Prior to my PhD, I received a Diploma in Electrical and Computer Engineering fro
 #### Research
 
 <pre>
+<b>Graph Switching Dynamical Systems</b>
+Yongtuo Liu, Sara Magliacane, Miltiadis Kofinas, Efstratios Gavves
+<em>ICML 2023</em>
+Paper: <a href="https://arxiv.org/abs/2306.00370">https://arxiv.org/abs/2306.00370</a>
+Source code: <a href="https://github.com/yongtuoliu/Graph-Switching-Dynamical-Systems">"https://github.com/yongtuoliu/Graph-Switching-Dynamical-Systems"</a>
+</pre>
+
+<pre>
 <b>Roto-translated Local Coordinate Frames for Interacting Dynamical Systems</b>
 Miltiadis Kofinas, Naveen Shankar Nagaraja, Efstratios Gavves
 <em>NeurIPS 2021</em>
-Preprint: <a href="https://arxiv.org/abs/2110.14961">https://arxiv.org/abs/2110.14961</a>
+Paper: <a href="https://arxiv.org/abs/2110.14961">https://arxiv.org/abs/2110.14961</a>
 Source code: <a href="https://github.com/mkofinas/locs">https://github.com/mkofinas/locs</a>
 </pre>
 
