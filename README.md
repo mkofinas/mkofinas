@@ -6,6 +6,15 @@ Prior to my PhD, I received a Diploma in Electrical and Computer Engineering fro
 
 #### Research
 
+
+<pre>
+<b>Latent Field Discovery in Interacting Dynamical Systems with Neural Fields</b>
+Miltiadis Kofinas, Erik J Bekkers, Naveen Shankar Nagaraja, Efstratios Gavves
+<em>NeurIPS 2023</em>
+Paper: Coming soon!
+Source code: <a href="https://github.com/mkofinas/aether">https://github.com/mkofinas/aether</a>
+</pre>
+
 <pre>
 <b>Graph Switching Dynamical Systems</b>
 Yongtuo Liu, Sara Magliacane, Miltiadis Kofinas, Efstratios Gavves
