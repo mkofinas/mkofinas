@@ -11,7 +11,7 @@ Prior to my PhD, I received a Diploma in Electrical and Computer Engineering fro
 Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan J. Burghouts, Efstratios Gavves, Cees G. M. Snoek, David W. Zhang
 <em>ICLR 2024 (Oral)</em>
 Paper: <a href="https://openreview.net/forum?id=oO6FsMyDBt">https://openreview.net/forum?id=oO6FsMyDBt</a>
-Source code: Coming soon!</a>
+Source code: <a href="https://github.com/mkofinas/neural-graphs">https://github.com/mkofinas/neural-graphs</a>
 </pre>
 
  
