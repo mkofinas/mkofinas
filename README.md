@@ -10,10 +10,17 @@ Prior to my PhD, I received a Diploma in Electrical and Computer Engineering fro
 <b>Graph Neural Networks for Learning Equivariant Representations of Neural Networks</b>
 Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan J. Burghouts, Efstratios Gavves, Cees G. M. Snoek, David W. Zhang
 <em>ICLR 2024 (Oral)</em>
-Paper: <a href="https://openreview.net/forum?id=oO6FsMyDBt">https://openreview.net/forum?id=oO6FsMyDBt</a>
+Paper: <a href="https://arxiv.org/abs/2403.12143">https://arxiv.org/abs/2403.12143</a>
 Source code: <a href="https://github.com/mkofinas/neural-graphs">https://github.com/mkofinas/neural-graphs</a>
 </pre>
 
+<pre>
+<b>How to Train Neural Field Representations: A Comprehensive Study and Benchmark</b>
+Samuele Papa, Riccardo Valperga, David M Knigge, Miltiadis Kofinas, Phillip Lippe, Jan-Jakob Sonke, Efstratios Gavves
+<em>CVPR 2024</em>
+Paper: <a href="https://arxiv.org/abs/2312.10531">https://arxiv.org/abs/2312.10531</a>
+Source code: <a href="https://github.com/samuelepapa/fit-a-nef">https://github.com/samuelepapa/fit-a-nef</a>
+</pre>
  
 
 <pre>
