@@ -20,7 +20,22 @@ Samuele Papa, Riccardo Valperga, David M Knigge, Miltiadis Kofinas, Phillip Lipp
 Paper: <a href="https://arxiv.org/abs/2312.10531">https://arxiv.org/abs/2312.10531</a>
 Source code: <a href="https://github.com/samuelepapa/fit-a-nef">https://github.com/samuelepapa/fit-a-nef</a>
 </pre>
- 
+
+<pre>
+<b>Amortized Equation Discovery in Hybrid Dynamical Systems</b>
+Yongtuo Liu, Sara Magliacane, Miltiadis Kofinas, Efstratios Gavves
+<em>ICML 2024</em>
+Paper: <a href="https://arxiv.org/abs/2406.03818">https://arxiv.org/abs/2406.03818</a>
+Source code: <a href="https://github.com/yongtuoliu/Amortized-Equation-Discovery-in-Hybrid-Dynamical-Systems">https://github.com/yongtuoliu/Amortized-Equation-Discovery-in-Hybrid-Dynamical-Systems</a>
+</pre>
+
+<pre>
+<b>Graph Neural Networks for Learning Equivariant Representations of Neural Networks</b>
+Miltiadis Kofinas, Boris Knyazev, Yan Zhang, Yunlu Chen, Gertjan J. Burghouts, Efstratios Gavves, Cees G. M. Snoek, David W. Zhang
+<em>ICLR 2024 (Oral)</em>
+Paper: <a href="https://arxiv.org/abs/2403.12143">https://arxiv.org/abs/2403.12143</a>
+Source code: <a href="https://github.com/mkofinas/neural-graphs">https://github.com/mkofinas/neural-graphs</a>
+</pre>
 
 <pre>
 <b>Latent Field Discovery in Interacting Dynamical Systems with Neural Fields</b>
