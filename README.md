@@ -10,7 +10,8 @@ Prior to my PhD, I received a Diploma in Electrical and Computer Engineering fro
 <b>From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields</b>
 Miltiadis Kofinas, Samuele Papa, Efstratios Gavves
 <em>Preprint</em>
-<a href="https://arxiv.org/abs/2412.08731">https://arxiv.org/abs/2412.08731/</a>
+Paper: <a href="https://arxiv.org/abs/2412.08731">https://arxiv.org/abs/2412.08731/</a>
+Source code: <a href="https://github.com/mkofinas/neomlp">https://github.com/mkofinas/neomlp</a>
 </pre>
 
 <pre>
