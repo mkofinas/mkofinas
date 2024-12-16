@@ -4,7 +4,7 @@ My name is Miltiadis (Miltos) Kofinas, and I am a PhD student in the [Video & Im
 
 Prior to my PhD, I received a Diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki. For my Diploma thesis, I researched the topic of Scene Graph Generation using Graph Neural Networks, supervised by [Christos Diou](https://diou.github.io/) and [Anastasios Delopoulos](https://mug.ee.auth.gr/people/anastasios-delopoulos/). During my studies, I was a computer vision & machine learning engineer at [P.A.N.D.O.R.A. Robotics](https://pandora.ee.auth.gr/pandora-robotics/).
 
-#### Research 🧪 🔬 🖥️
+#### Research (Selected publications) 🧪 🔬 🖥️
 
 <pre>
 <b>From MLP to NeoMLP: Leveraging Self-Attention for Neural Fields</b>
