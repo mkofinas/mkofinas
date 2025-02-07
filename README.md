@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-My name is Miltiadis (Miltos) Kofinas, and I am a PhD student in the [Video & Image Sense Lab](https://ivi.fnwi.uva.nl/vislab/) at the University of Amsterdam, supervised by [Efstratios Gavves](https://egavves.com/). My research focuses on future spatio-temporal forecasting, with applications on forecasting for autonomous vehicles. My research interests include graph neural networks, neural fields, and geometric deep learning.
+My name is Miltiadis (Miltos) Kofinas, and I am a Postdoctoral researcher in the [Climate Extremes Group](https://climateextremes.eu/) at the Vrije Universiteit Amsterdam, supervised by Dim Coumou.
+My research focuses on the development of AI methods for climate science, and especially on foundation models for weather forecasting.
+My research interests include graph neural networks, neural fields, geometric deep learning, and parameter-space networks.
 
-Prior to my PhD, I received a Diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki. For my Diploma thesis, I researched the topic of Scene Graph Generation using Graph Neural Networks, supervised by [Christos Diou](https://diou.github.io/) and [Anastasios Delopoulos](https://mug.ee.auth.gr/people/anastasios-delopoulos/). During my studies, I was a computer vision & machine learning engineer at [P.A.N.D.O.R.A. Robotics](https://pandora.ee.auth.gr/pandora-robotics/).
+I completed my PhD in the [Video & Image Sense Lab](https://ivi.fnwi.uva.nl/vislab/) at the University of Amsterdam, supervised by [Efstratios Gavves](https://egavves.com/).
+My research focused on future spatio-temporal forecasting, with applications on forecasting for autonomous vehicles.
+Prior to my PhD, I received a Diploma in Electrical and Computer Engineering from the Aristotle University of Thessaloniki. For my Diploma thesis,
+I researched the topic of Scene Graph Generation using Graph Neural Networks, supervised by [Christos Diou](https://diou.github.io/) and [Anastasios Delopoulos](https://mug.ee.auth.gr/people/anastasios-delopoulos/).
+During my studies, I was a computer vision & machine learning engineer at [P.A.N.D.O.R.A. Robotics](https://pandora.ee.auth.gr/pandora-robotics/).
 
 #### Research (Selected publications) 🧪 🔬 🖥️
 
