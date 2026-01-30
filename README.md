@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Miltiadis (Miltos) Kofinas, and I am a Postdoctoral researcher in the [Climate Extremes Group](https://climateextremes.eu/) at the Vrije Universiteit Amsterdam, supervised by Dim Coumou.
+My name is Miltiadis (Miltos) Kofinas, and I am a Postdoctoral researcher in the [Climate Extremes Group](https://climateextremes.eu/) at the Vrije Universiteit Amsterdam, advised by Dim Coumou.
 My research focuses on the development of AI methods for climate science, and especially on foundation models for weather forecasting.
 My research interests include graph neural networks, neural fields, geometric deep learning, and parameter-space networks.
 
